@@ -2,7 +2,7 @@
 /**
  * 
  */
-class News extends Admin_controller
+class News extends Admin_Controller
 {
 	
 	function __construct()
