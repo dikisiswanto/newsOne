@@ -3,7 +3,7 @@
 /**
  * 
  */
-class Categories extends Admin_controller
+class Categories extends Admin_Controller
 {
 	
 	function __construct()
