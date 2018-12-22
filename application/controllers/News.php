@@ -98,8 +98,9 @@ class News extends Admin_Controller
 		return $data;
 	}
 
-	/*
+	/**
 	* @return bool
+	* @access public
 	* form validation for create and update
 	*/
 	public function form_validate()
